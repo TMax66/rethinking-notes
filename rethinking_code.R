@@ -118,3 +118,7 @@ mx<-quap(
     sigma~dexp(1)
   ), data=d)
 plot(d$A,d$M)
+
+
+
+provaprovata
